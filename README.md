@@ -27,7 +27,7 @@ essa lista voltará ordenada de A-Z. Ordenar as propriedades de A-Z ajuda a enco
 </p>
 
 <h1>Esquema de funcionamento(fluxograma)</h1>
-<img src="/img/fluxograma.png" alt="fluxograma" width="1080" height="1920">
+<img src="/img/fluxograma.png" alt="fluxograma" width="950" height="487">
 
 
 <h1>Screenshot do funcionamento</h1>
