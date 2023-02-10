@@ -12,3 +12,8 @@ const adicionarNaLista = (prop) => {
   //Dentro da array serão adicionadas a leitura das propriedades do CSS, ou seja: A cada nova propriedade será computada um novo registro
 
 };
+
+const ordenar = () => {
+  lista.sort();
+  //Imprime as propriedades em ordem alfabética
+};
