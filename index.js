@@ -39,4 +39,10 @@ while (true)
     //Caso a entrada for estritamente igual a sair, então essas duas constantes serão retornadas, elas serão funções auto invocadas
     //Ordenam e listam os registros digitados(elementos)
     return entrada = false
+     
+  } else if (entrada.toLowerCase() !== "sair" && entrada !== "") {
+    adicionarNaLista(entrada);
+    //Caso o usuário não digite "sair" e também não adicione um registro vazio , será continuada a adição de registros que o readlinesync lerá
+  }
+}
 
