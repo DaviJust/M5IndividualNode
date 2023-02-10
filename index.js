@@ -30,3 +30,13 @@ while (true)
   entrada = redlineSync.question("Digite a propriedade CSS ou 'SAIR' para exibir a listagem e encerrar: ");
   //  readline que é um modulo responsável pela interface que realiza a leitura dos dados.
   // Pergunta qual a propriedade, o readline será responsável pela  interface e leitura dos dados.
+  
+  
+   if (entrada.toLowerCase() == "sair") {
+  //Condicional que possibilita o rompimento do laço repetitivo
+    ordenar();
+    listar();
+    //Caso a entrada for estritamente igual a sair, então essas duas constantes serão retornadas, elas serão funções auto invocadas
+    //Ordenam e listam os registros digitados(elementos)
+    return entrada = false
+
