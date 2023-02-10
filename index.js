@@ -17,3 +17,8 @@ const ordenar = () => {
   lista.sort();
   //Imprime as propriedades em ordem alfabética
 };
+
+const listar = () => {
+   lista.forEach((elemento) => { console.log(elemento); }); 
+   //Retorna no terminal as propriedades em cada linha
+};
