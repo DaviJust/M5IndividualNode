@@ -22,7 +22,7 @@ essa lista voltará ordenada de A-Z. Ordenar as propriedades de A-Z ajuda a enco
 </li>
 <li>2. Função que permite a interação com o usuário e o loop(laço) que será perpetuado até as palavras chaves serem ditas</li>
 <p><i>Ver para ver as propriedades inseridas no terminal</i></p>
-<p><i>3. Condicional que permite o usuário sair do registrado ao escrever "Sair"</i></p>
+<li>3. Condicional que permite o usuário sair do registrado ao escrever "Sair"</li>
 </ul>
 </p>
 
