@@ -22,3 +22,11 @@ const listar = () => {
    lista.forEach((elemento) => { console.log(elemento); }); 
    //Retorna no terminal as propriedades em cada linha
 };
+
+
+while (true)
+// Laço while que executa enquanto a entrada(input) não for "sair"
+{
+  entrada = redlineSync.question("Digite a propriedade CSS ou 'SAIR' para exibir a listagem e encerrar: ");
+  //  readline que é um modulo responsável pela interface que realiza a leitura dos dados.
+  // Pergunta qual a propriedade, o readline será responsável pela  interface e leitura dos dados.
